@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 int led = 12;
 char input;
 void setup() {
