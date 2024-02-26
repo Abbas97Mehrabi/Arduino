@@ -1,4 +1,4 @@
-int led = 12;
+int led = 11;
 char input;
 void setup() {
   // put your setup code here, to run once:
